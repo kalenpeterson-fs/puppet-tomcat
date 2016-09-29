@@ -1,0 +1,15 @@
+{
+  "name": "kpeterson-tomcat",
+  "version": "0.1.0",
+  "author": "kpeterson",
+  "summary": "Install and Manage a Tomcat Instance",
+  "license": "Apache-2.0",
+  "source": "https://github.com/kalenpeterson-fs/puppet-tomcat",
+  "project_page": "https://github.com/kalenpeterson-fs/puppet-tomcat",
+  "issues_url": "https://github.com/kalenpeterson-fs/puppet-tomcat/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
